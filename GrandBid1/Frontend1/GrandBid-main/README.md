@@ -108,6 +108,16 @@ With a rich, magical UI featuring house-themed colors, animated elements, and an
   - Firestore Database
   - Cloud Storage
   - Hosting
+### Django 5.0 – Python Web Framework for scalable backend APIs
+⚙️ REST APIs – Built using Django REST Framework for handling requests
+🧠 Business Logic Layer – Supports admin dashboards, bidding logic, and data validation
+🔒 Secure & Modular – Handles user roles, permissions, and form validations
+🌐 Integration Layer – Communicates with frontend and ML modules
+
+### MySQL 8.0 – Relational Database
+🧾 Structured Data Storage – Stores user details, auction items, bid history, and teams
+📊 Relational Queries – Efficient joins and aggregations for leaderboard, bidding history
+🔐 Secure Access – Credentials managed in environment variables or Django settings
 
 ### Development Tools
 - **ESLint** - Code linting with React-specific rules
