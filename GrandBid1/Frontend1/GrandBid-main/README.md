@@ -46,9 +46,9 @@ With a rich, magical UI featuring house-themed colors, animated elements, and an
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
+- Node.js 18+ , Django
 - npm or yarn
-- Firebase project (for authentication and database)
+- Firebase / mysql project (for authentication and database)
 
 ### Installation
 
