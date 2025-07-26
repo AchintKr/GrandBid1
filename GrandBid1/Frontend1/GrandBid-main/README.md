@@ -11,8 +11,8 @@
   [![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?logo=vite)](https://vitejs.dev/)
   [![Firebase](https://img.shields.io/badge/Firebase-12.0.0-orange?logo=firebase)](https://firebase.google.com/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-  [![Django]](https://www.djangoproject.com/)
-  [![MYSQL]](https://www.mysql.com/)
+  [Django](https://www.djangoproject.com/)
+  [MYSQL](https://www.mysql.com/)
 </div>
 
 ## 📖 Overview
